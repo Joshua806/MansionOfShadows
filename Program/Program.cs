@@ -121,4 +121,6 @@ else if(diningRoomOrReception == "exit")
     return;
 }
 
+Console.WriteLine("Bursting into a hallway you see the shadow dancing along the walls as it makes it way deeper within the manor.");
+
 
