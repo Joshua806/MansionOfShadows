@@ -107,20 +107,67 @@ string diningRoomOrReception = Console.ReadLine();
 
 if(diningRoomOrReception == "dining room")
 {
-    Console.WriteLine("You swing around the corner of the door to the dining room without making a noise\n you scan the room and spot a shadow, the same one you saw just moments ago\n");
-    Console.WriteLine("you lunge forwards in pursuit of the shadow and it responds in kind by flittering along the wall to another doorway.\n");
+    Console.WriteLine("\nYou swing around the corner of the door to the dining room without making a noise\n you scan the room and spot a shadow, the same one you saw just moments ago\n");Thread. Sleep(2000);
+    Console.WriteLine("you lunge forwards in pursuit of the shadow and it responds in kind by flittering along the wall to another doorway.\n");Thread. Sleep(2000);
 }
 else if(diningRoomOrReception == "main reception")
 {
-    Console.WriteLine("you slide the door back to the main reception peering in, the room being lit by the light of the moon cascading down \neverything seems still, motionless and quiet but you notice something in the corner\n ");
-    Console.WriteLine("A patch of wall darker than everything that surrounds it, you stare intently focusing on it.\n The darkness folds under your instense stare and begins to move.");
-    Console.WriteLine("Now its moving you recognise it for the same shadow you saw moments ago. You charge after it leaping over furniture while it manevours to the nearest door.");
+    Console.WriteLine("\nyou slide the door back to the main reception peering in, the room being lit by the light of the moon cascading down \neverything seems still, motionless and quiet but you notice something in the corner\n ");Thread. Sleep(2000);
+    Console.WriteLine("A patch of wall darker than everything that surrounds it, you stare intently focusing on it.\n The darkness folds under your instense stare and begins to move.\n");Thread. Sleep(2000);
+    Console.WriteLine("Now its moving you recognise it for the same shadow you saw moments ago. You charge after it leaping over furniture while it manevours to the nearest door.\n");Thread. Sleep(2000);
 }
 else if(diningRoomOrReception == "exit")
 {
     return;
 }
 
-Console.WriteLine("Bursting into a hallway you see the shadow dancing along the walls as it makes it way deeper within the manor.");
+Console.WriteLine("\nBursting into a hallway you see the shadow dancing along the walls as it makes it way deeper within the manor.\n");Thread. Sleep(2000);
+Console.WriteLine("As you run down the hallways you realise that this shadow is leading you further into the darkness.\n");Thread. Sleep(2000);
+Console.WriteLine("While you runnning you conclude that there is only one villian this can be.\n");Thread. Sleep(2000);
+
+Console.WriteLine("\nYou turn a corner halting abrubtly at the entrance to the kitchen. Inside you see a person tied to a chair doubled over with blood dripping from their face.\n");Thread. Sleep(2000);
+Console.WriteLine("It's Alfred!\n");
+Console.WriteLine("It's a trap you know as soon as you walk into that kitchen it will descend into a sufficating darkness.\n");Thread. Sleep(2000);
+Console.WriteLine("If you can get to the back-up generator around the back of the houes you can turn the power back on and fight the darkness\n");Thread. Sleep(2000);
+
+Console.WriteLine("\nDo you lunge forward to save Alfred or go to the Generator\n");Thread. Sleep(2000);
+
+string alfredOrGenerator = Console.ReadLine();
+
+if(alfredOrGenerator == "Alfred")
+{
+    Console.WriteLine("\nYou lunge forward, and complete darkness takes you, you surrounded by a swirl of shadows and blackness\n");Thread. Sleep(2000);
+    Console.WriteLine("The last thing you hear before it all goes dark is Alfred\n");Thread. Sleep(2000);
+    Console.WriteLine($"\"I'm Sorry master Bruce\"\n");Thread. Sleep(2000);
+
+    return;
+}
+else if(alfredOrGenerator == "Generator")
+{
+    Console.WriteLine("\nYou exit the manor through a back door and quickly navigate the estensives grounds to the backup generator.\n");Thread. Sleep(2000);
+    Console.WriteLine("Powering it on, you see the manor light up\n");Thread. Sleep(2000);
+    Console.WriteLine("Sprinting back through the back entrance and then through the kithen door, you see the shadow and its darkness are gone.\n");Thread. Sleep(2000);
+    Console.WriteLine("Only Alfred remains, you untie him and help him up.\n");Thread. Sleep(2000);
+    Console.WriteLine($"Regaining his footing Alfred begins \"I'm sorry master Bruce, After our call ended I was engoulfed by darkness and woke up here, I'm not entirely sure how long its been\"\n");Thread. Sleep(2000);
+    Console.WriteLine($"\"Don't apologise Alfred, it's Shade, I don't know how but he made it into the manor and past our security.\n");Thread. Sleep(2000);
+}
+
+Console.WriteLine("\nYou escort Alfred to the batcave entrence only to see the clock masking the secret door is now enclosed in a shadow.\n");Thread. Sleep(2000);
+Console.WriteLine($"\"You can't leave that way Batman!\"\n");Thread. Sleep(2000);
+Console.WriteLine("Spining on your heels you launch a handful of Baterangs in the direction of the voice and they disappear into the dark.\n");Thread. Sleep(2000);
+Console.WriteLine("You turn back to the clock and see that the shadow has shrunk enough for you and alfred to squeez through to the batcave.\n");Thread. Sleep(2000);
+Console.WriteLine("You carry ALfred down the steps to the bat computer, place him the chair infront of a dozen monitors and activate a failsafe\n");Thread. Sleep(2000);
+Console.WriteLine("A hatch underneath the chair opens and the chair with Alfred in it begins to lower into a small armoured chamber.\n");Thread. Sleep(2000);
+Console.WriteLine($"\"You'll be safe in there while I handle Shade\"\n");Thread. Sleep(2000);
+Console.WriteLine($"As you turn your back you hear Alfred. \"Be Carefu..\"\n");Thread. Sleep(2000);
 
 
+Console.WriteLine($"\nLooking around the batcave a voice erupted\"That was a mistake! You should have used that for yourself!\"\n");Thread. Sleep(2000);
+Console.WriteLine("You look around trying to find the source of the voice but its impossible to pin down\n");Thread. Sleep(2000);
+Console.WriteLine("Suddenly steps from behind annouce something moving towards you with speed \nYou pivot on your heels with your left arm in position for a devastating strike\n");Thread. Sleep(2000);
+Console.WriteLine("Your fist connects with a shadow resembling a man\n");Thread. Sleep(2000);
+Console.WriteLine($"\"You should have known better than to follow me back here\" moving towards the crumpled shadow on the ground\n");Thread. Sleep(2000);
+Console.WriteLine("The shadow beings to resemble more of the man who weilds it. Shade stares back at you with his cold, dark hollow eyes.\n");Thread. Sleep(2000);
+Console.WriteLine($"\"No matter I've accomplished what I set out to do, Bruce!\n");Thread. Sleep(2000);
+Console.WriteLine("With that shade disolved into another shadow and then the batave flooded with light\n");Thread. Sleep(2000);
+Console.WriteLine("all shadows chased out and Batman with a new case!\n");Thread. Sleep(2000);
