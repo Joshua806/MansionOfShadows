@@ -1,0 +1,14 @@
+C:\Joshua\DetectiveComics\MansionOfShadows\program\bin\Debug\net10.0\Program.exe
+C:\Joshua\DetectiveComics\MansionOfShadows\program\bin\Debug\net10.0\Program.deps.json
+C:\Joshua\DetectiveComics\MansionOfShadows\program\bin\Debug\net10.0\Program.runtimeconfig.json
+C:\Joshua\DetectiveComics\MansionOfShadows\program\bin\Debug\net10.0\Program.dll
+C:\Joshua\DetectiveComics\MansionOfShadows\program\bin\Debug\net10.0\Program.pdb
+C:\Joshua\DetectiveComics\MansionOfShadows\program\obj\Debug\net10.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Joshua\DetectiveComics\MansionOfShadows\program\obj\Debug\net10.0\Program.AssemblyInfoInputs.cache
+C:\Joshua\DetectiveComics\MansionOfShadows\program\obj\Debug\net10.0\Program.AssemblyInfo.cs
+C:\Joshua\DetectiveComics\MansionOfShadows\program\obj\Debug\net10.0\Program.csproj.CoreCompileInputs.cache
+C:\Joshua\DetectiveComics\MansionOfShadows\program\obj\Debug\net10.0\Program.dll
+C:\Joshua\DetectiveComics\MansionOfShadows\program\obj\Debug\net10.0\refint\Program.dll
+C:\Joshua\DetectiveComics\MansionOfShadows\program\obj\Debug\net10.0\Program.pdb
+C:\Joshua\DetectiveComics\MansionOfShadows\program\obj\Debug\net10.0\Program.genruntimeconfig.cache
+C:\Joshua\DetectiveComics\MansionOfShadows\program\obj\Debug\net10.0\ref\Program.dll
