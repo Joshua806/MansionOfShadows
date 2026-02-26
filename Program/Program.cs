@@ -172,3 +172,4 @@ Console.WriteLine($"\"No matter I've accomplished what I set out to do, Bruce!\n
 Console.WriteLine("With that shade disolved into another shadow and then the batave flooded with light\n");Thread. Sleep(2000);
 Console.WriteLine("all shadows chased out and Batman with a new case!\n");Thread. Sleep(2000);
 
+return;
